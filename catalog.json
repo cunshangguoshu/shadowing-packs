@@ -1,0 +1,1201 @@
+{
+  "packs": [
+    {
+      "id": "pack_gongitsune",
+      "title": "ごん狐",
+      "icon": "🦊",
+      "type": "shadowing",
+      "author": "新美南吉",
+      "description": "经典童话跟读，适合练习语调和断句。",
+      "cardStyle": "imageOnly",
+      "coverImageAsset": null,
+      "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/cover.jpg",
+      "cards": [
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_cover.jpg",
+          "japaneseText": "ごんは、森に住んでいる小狐です。いつも村へ行って、いたずらをしいていました。",
+          "translation": "阿权是一只住在森林里的小狐狸。他总是跑到村子里去搞恶作剧。",
+          "rubySegments": [
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "森に住んでいる",
+              "ruby": "もりにすんでいる",
+              "translation": "住在森林里的",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "小狐です。",
+              "ruby": "こぎつねです。",
+              "translation": "是小狐狸。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "いつも",
+              "ruby": "いつも",
+              "translation": "总是",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "村へ行って、",
+              "ruby": "むらへいって、",
+              "translation": "跑到村子里，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "いたずらを",
+              "ruby": "いたずらを",
+              "translation": "恶作剧",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "していました。",
+              "ruby": "していました。",
+              "translation": "搞着。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/0_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_cover.jpg",
+          "japaneseText": "ある秋、雨が何日も降りました。雨がやむと、ごんは川へ行きました。",
+          "translation": "有一个秋天，雨连着下了好几天。雨停后，阿权去了河边。",
+          "rubySegments": [
+            {
+              "text": "ある秋、",
+              "ruby": "あるあき、",
+              "translation": "某个秋天，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "雨が",
+              "ruby": "あめが",
+              "translation": "雨",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "何日も",
+              "ruby": "なんにちも",
+              "translation": "好几天",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "降りました。",
+              "ruby": "ふりました。",
+              "translation": "下着。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "雨がやむと、",
+              "ruby": "あめがやむと、",
+              "translation": "雨一停，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "川へ行きました。",
+              "ruby": "かわへいきました。",
+              "translation": "去了河边。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/1_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_cover.jpg",
+          "japaneseText": "兵十という男の人が、川で魚をとっていました。そして、魚を入れたかごを置いて、どこかへ行きました。",
+          "translation": "一个叫兵十的男人，正在河里捕鱼。然后，他把装鱼的篮子放下，去了别的地方。",
+          "rubySegments": [
+            {
+              "text": "兵十という",
+              "ruby": "ひょうじゅうという",
+              "translation": "叫兵十的",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "男の人が、",
+              "ruby": "おとこのひとが、",
+              "translation": "男人，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "川で",
+              "ruby": "かわで",
+              "translation": "在河里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "魚をとっていました。",
+              "ruby": "さかなをとっていました。",
+              "translation": "捕着鱼。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "そして、",
+              "ruby": "そして、",
+              "translation": "然后，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "魚を入れた",
+              "ruby": "さかなをいれた",
+              "translation": "装了鱼的",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "かごを置いて、",
+              "ruby": "かごをおいて、",
+              "translation": "篮子放下，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "どこかへ",
+              "ruby": "どこかへ",
+              "translation": "往某处",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            },
+            {
+              "text": "行きました。",
+              "ruby": "いきました。",
+              "translation": "去了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/2_segment_8.mp3",
+              "startTime": 8.0,
+              "endTime": 9.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_cover.jpg",
+          "japaneseText": "ごんは、いたずらをしたくなりました。かごの中の魚を、川へどんどん捨てました。",
+          "translation": "阿权想搞恶作剧了。他把篮子里的鱼，不断地扔进河里。",
+          "rubySegments": [
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "いたずらを",
+              "ruby": "いたずらを",
+              "translation": "恶作剧",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "したくなりました。",
+              "ruby": "したくなりました。",
+              "translation": "变得想搞了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "かごの中の魚を、",
+              "ruby": "かごのなかのさかなを、",
+              "translation": "篮子里的鱼，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "川へ",
+              "ruby": "かわへ",
+              "translation": "往河里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "どんどん",
+              "ruby": "どんどん",
+              "translation": "不断地",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "捨てました。",
+              "ruby": "すてました。",
+              "translation": "扔了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/3_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_cover.jpg",
+          "japaneseText": "最後に、大きなうなぎを口にくわえました。その時、兵十が戻ってきました。",
+          "translation": "最后，他嘴里叼起了一条大鳗鱼。就在那时，兵十回来了。",
+          "rubySegments": [
+            {
+              "text": "最後に、",
+              "ruby": "さいごに、",
+              "translation": "最后，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "大きなうなぎを",
+              "ruby": "おおきなうなぎを",
+              "translation": "大鳗鱼",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "口に",
+              "ruby": "くちに",
+              "translation": "在嘴里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "くわえました。",
+              "ruby": "くわえました。",
+              "translation": "叼着了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "その時、",
+              "ruby": "そのとき、",
+              "translation": "那时，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "兵十が",
+              "ruby": "ひょうじゅうが",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "戻ってきました。",
+              "ruby": "もどってきました。",
+              "translation": "回来了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/4_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_cover.jpg",
+          "japaneseText": "「うわあ、どろぼう狐！」兵十は大きな声で怒りました。ごんは急いで逃げました。",
+          "translation": "“哇，偷东西的狐狸！”兵十大声地发火了。阿权急忙逃跑了。",
+          "rubySegments": [
+            {
+              "text": "「うわあ、",
+              "ruby": "「うわあ、",
+              "translation": "「哇，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "どろぼう狐！」",
+              "ruby": "どろぼうぎつね！」",
+              "translation": "小偷狐狸！」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "兵十は",
+              "ruby": "ひょうじゅうは",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "大きな声で",
+              "ruby": "おおきなこえで",
+              "translation": "用大声音",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "怒りました。",
+              "ruby": "おこりました。",
+              "translation": "发火了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "急いで",
+              "ruby": "いそいで",
+              "translation": "急忙地",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "逃げました。",
+              "ruby": "にげました。",
+              "translation": "逃跑了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/5_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_cover.jpg",
+          "japaneseText": "何日か後、ごんは村で葬式を見ました。兵十が白い服を着て、泣いていました。",
+          "translation": "几天后，阿权在村里看到了葬礼。兵十穿着白色的衣服，正在哭泣。",
+          "rubySegments": [
+            {
+              "text": "何日か後、",
+              "ruby": "なんにちかあと、",
+              "translation": "几天后，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "村で",
+              "ruby": "むらで",
+              "translation": "在村里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "葬式を見ました。",
+              "ruby": "そうしきをみました。",
+              "translation": "看到了葬礼。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "兵十が",
+              "ruby": "ひょうじゅうが",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "白い服を",
+              "ruby": "しろいふくを",
+              "translation": "白色的衣服",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "着て、",
+              "ruby": "きて、",
+              "translation": "穿着，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "泣いていました。",
+              "ruby": "ないていました。",
+              "translation": "哭泣着。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/6_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_cover.jpg",
+          "japaneseText": "「ああ、死んだのは兵十のお母さんだ。あのうなぎを食べたかったんだ。」ごんはとても後悔しました。",
+          "translation": "“啊，死的是兵十的妈妈呀。她肯定是想吃那条鳗鱼的。”阿权非常后悔。",
+          "rubySegments": [
+            {
+              "text": "「ああ、",
+              "ruby": "「ああ、",
+              "translation": "「啊，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "死んだのは",
+              "ruby": "しんだのは",
+              "translation": "死去的",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "兵十のお母さんだ。",
+              "ruby": "ひょうじゅうのおかあさんだ。",
+              "translation": "是兵十的妈妈呀。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "あのうなぎを",
+              "ruby": "あのうなぎを",
+              "translation": "那条鳗鱼",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "食べたかったんだ。」",
+              "ruby": "たべたかったんだ。」",
+              "translation": "想吃啊。」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "とても",
+              "ruby": "とても",
+              "translation": "非常",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "後悔しました。",
+              "ruby": "こうかいしました。",
+              "translation": "后悔了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/7_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_cover.jpg",
+          "japaneseText": "次の日から、ごんは毎日山で栗を拾って、兵十の家へ持っていきました。",
+          "translation": "从第二天起，阿权每天在山里捡栗子，送到兵十家去。",
+          "rubySegments": [
+            {
+              "text": "次の日から、",
+              "ruby": "つぎのひから、",
+              "translation": "第二天起，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "毎日",
+              "ruby": "まいにち",
+              "translation": "每天",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "山で",
+              "ruby": "やまで",
+              "translation": "在山里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "栗を拾って、",
+              "ruby": "くりをひろって、",
+              "translation": "捡栗子，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "兵十の家へ",
+              "ruby": "ひょうじゅうのいえへ",
+              "translation": "往兵十家",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "持っていきました。",
+              "ruby": "もっていきました。",
+              "translation": "拿去了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/8_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_cover.jpg",
+          "japaneseText": "ある夜、兵十が友達に言いました。「毎日、誰かが僕に栗をくれるんだ。」友達は、「それは神様のおかげだよ」と言いました。",
+          "translation": "一天夜里，兵十对朋友说：“每天，都有人给我栗子。”朋友说：“那是神明的恩赐哦。”",
+          "rubySegments": [
+            {
+              "text": "ある夜、",
+              "ruby": "あるよる、",
+              "translation": "某个夜里，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "兵十が",
+              "ruby": "ひょうじゅうが",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "友達に",
+              "ruby": "ともだちに",
+              "translation": "对朋友",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "言いました。",
+              "ruby": "いいました。",
+              "translation": "说了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "「毎日、",
+              "ruby": "「まいにち、",
+              "translation": "「每天，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "誰かが",
+              "ruby": "だれかが",
+              "translation": "某人",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "僕に",
+              "ruby": "ぼくに",
+              "translation": "给我",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "栗をくれるんだ。」",
+              "ruby": "くりをくれるんだ。」",
+              "translation": "给栗子哦。」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            },
+            {
+              "text": "友達は、",
+              "ruby": "ともだちは、",
+              "translation": "朋友，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_8.mp3",
+              "startTime": 8.0,
+              "endTime": 9.0
+            },
+            {
+              "text": "「それは",
+              "ruby": "「それは",
+              "translation": "「那是",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_9.mp3",
+              "startTime": 9.0,
+              "endTime": 10.0
+            },
+            {
+              "text": "神様の",
+              "ruby": "かみさまの",
+              "translation": "神明的",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_10.mp3",
+              "startTime": 10.0,
+              "endTime": 11.0
+            },
+            {
+              "text": "おかげだよ」と",
+              "ruby": "おかげだよ」と",
+              "translation": "恩赐哦」地",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_11.mp3",
+              "startTime": 11.0,
+              "endTime": 12.0
+            },
+            {
+              "text": "言いました。",
+              "ruby": "いいました。",
+              "translation": "说了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/9_segment_12.mp3",
+              "startTime": 12.0,
+              "endTime": 13.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_cover.jpg",
+          "japaneseText": "それを聞いて、ごんは悲しくなりました。「僕が持っていったのに、神様に感謝するなんて。」",
+          "translation": "听到这些，阿权变得很伤心。“明明是我送过去的，他竟然去感谢神明。”",
+          "rubySegments": [
+            {
+              "text": "それを聞いて、",
+              "ruby": "それをきいて、",
+              "translation": "听到那个，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "悲しくなりました。",
+              "ruby": "かなしくなりました。",
+              "translation": "变得伤心了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "「僕が",
+              "ruby": "「ぼくが",
+              "translation": "「我",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "持っていったのに、",
+              "ruby": "もっていったのに、",
+              "translation": "拿过去的明明，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "神様に",
+              "ruby": "かみさまに",
+              "translation": "对神明",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "感謝するなんて。」",
+              "ruby": "かんしゃするなんて。」",
+              "translation": "感谢竟然。」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/10_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_cover.jpg",
+          "japaneseText": "次の日も、ごんは栗を持って、こっそり兵十の家に入りました。",
+          "translation": "第二天，阿权也带着栗子，悄悄地溜进了兵十的家。",
+          "rubySegments": [
+            {
+              "text": "次の日も、",
+              "ruby": "つぎのひも、",
+              "translation": "第二天也，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "栗を持って、",
+              "ruby": "くりをもって、",
+              "translation": "带着栗子，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "こっそり",
+              "ruby": "こっそり",
+              "translation": "悄悄地",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "兵十の家に",
+              "ruby": "ひょうじゅうのいえに",
+              "translation": "往兵十家里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "入りました。",
+              "ruby": "はいりました。",
+              "translation": "进去了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/11_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_cover.jpg",
+          "japaneseText": "兵十はごんを見つけました。「あのどろぼう狐！またいたずらに来たな。」",
+          "translation": "兵十发现了阿权。“那个偷东西的狐狸！又来搞恶作剧了吧。”",
+          "rubySegments": [
+            {
+              "text": "兵十は",
+              "ruby": "ひょうじゅうは",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "ごんを",
+              "ruby": "ごんを",
+              "translation": "把阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "見つけました。",
+              "ruby": "みつけました。",
+              "translation": "发现了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "「あの",
+              "ruby": "「あの",
+              "translation": "「那个",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "どろぼう狐！",
+              "ruby": "どろぼうぎつね！",
+              "translation": "小偷狐狸！",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "また",
+              "ruby": "また",
+              "translation": "又",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "いたずらに",
+              "ruby": "いたずらに",
+              "translation": "为了恶作剧",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "来たな。」",
+              "ruby": "きたな。」",
+              "translation": "来了吧。」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/12_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_cover.jpg",
+          "japaneseText": "兵十は鉄砲をとって、ドンと撃ちました。ごんは倒れました。",
+          "translation": "兵十拿起枪，砰地一声开了火。阿权倒下了。",
+          "rubySegments": [
+            {
+              "text": "兵十は",
+              "ruby": "ひょうじゅうは",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "鉄砲をとって、",
+              "ruby": "てっぽうをとって、",
+              "translation": "拿起枪，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "ドンと",
+              "ruby": "ドンと",
+              "translation": "砰地",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "撃ちました。",
+              "ruby": "うちました。",
+              "translation": "开枪了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "ごんは",
+              "ruby": "ごんは",
+              "translation": "阿权",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "倒れました。",
+              "ruby": "たおれました。",
+              "translation": "倒下了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/13_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_cover.jpg",
+          "japaneseText": "兵十が家の中を見ると、栗がたくさん置いてありました。「ごん、お前だったのか。いつも栗をくれたのは。」",
+          "translation": "兵十往屋里一看，放着很多栗子。“阿权，原来是你吗。一直以来给我栗子的……”",
+          "rubySegments": [
+            {
+              "text": "兵十が",
+              "ruby": "ひょうじゅうが",
+              "translation": "兵十",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "家の中を",
+              "ruby": "いえのなかを",
+              "translation": "往屋里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "見ると、",
+              "ruby": "みると、",
+              "translation": "一看，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "栗が",
+              "ruby": "くりが",
+              "translation": "栗子",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "たくさん",
+              "ruby": "たくさん",
+              "translation": "很多",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "置いてありました。",
+              "ruby": "おいてありました。",
+              "translation": "放着了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "「ごん、",
+              "ruby": "「ごん、",
+              "translation": "「阿权，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            },
+            {
+              "text": "お前だったのか。",
+              "ruby": "おまえだったのか。",
+              "translation": "原来是你吗。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_7.mp3",
+              "startTime": 7.0,
+              "endTime": 8.0
+            },
+            {
+              "text": "いつも",
+              "ruby": "いつも",
+              "translation": "总是",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_8.mp3",
+              "startTime": 8.0,
+              "endTime": 9.0
+            },
+            {
+              "text": "栗を",
+              "ruby": "くりを",
+              "translation": "栗子",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_9.mp3",
+              "startTime": 9.0,
+              "endTime": 10.0
+            },
+            {
+              "text": "くれたのは。」",
+              "ruby": "くれたのは。」",
+              "translation": "给我的是……」",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/14_segment_10.mp3",
+              "startTime": 10.0,
+              "endTime": 11.0
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_audio.mp3",
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_cover.jpg",
+          "japaneseText": "ごんは、目を閉じたままうなずきました。鉄砲からは、青い煙が出ていました。",
+          "translation": "阿权闭着眼睛点了点头。枪口里，正冒着蓝色的青烟。",
+          "rubySegments": [
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_0.mp3",
+              "startTime": 0,
+              "endTime": 1.0
+            },
+            {
+              "text": "目を",
+              "ruby": "めを",
+              "translation": "眼睛",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_1.mp3",
+              "startTime": 1.0,
+              "endTime": 2.0
+            },
+            {
+              "text": "閉じたまま",
+              "ruby": "とじたまま",
+              "translation": "闭着的状态",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_2.mp3",
+              "startTime": 2.0,
+              "endTime": 3.0
+            },
+            {
+              "text": "うなずきました。",
+              "ruby": "うなずきました。",
+              "translation": "点头了。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_3.mp3",
+              "startTime": 3.0,
+              "endTime": 4.0
+            },
+            {
+              "text": "鉄砲からは、",
+              "ruby": "てっぽうからは、",
+              "translation": "从枪口，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_4.mp3",
+              "startTime": 4.0,
+              "endTime": 5.0
+            },
+            {
+              "text": "青い煙が",
+              "ruby": "あおいけむりが",
+              "translation": "蓝色烟雾",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_5.mp3",
+              "startTime": 5.0,
+              "endTime": 6.0
+            },
+            {
+              "text": "出ていました。",
+              "ruby": "でていました。",
+              "translation": "正冒着。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-packs/main/packs/pack_gongitsune/15_segment_6.mp3",
+              "startTime": 6.0,
+              "endTime": 7.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
