@@ -1,0 +1,438 @@
+{
+  "packs": [
+    {
+      "id": "pack_gongitsune",
+      "title": "ごんぎつね",
+      "icon": "🦊",
+      "type": "shadowing",
+      "cards": [
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_01.mp3",
+          "japaneseText": "ごんは、ひとりぼっちの小狐で、森の中に住んでいました。",
+          "translation": "阿权是一只孤零零的小狐狸，住在森林里。",
+          "rubySegments": [
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_01_seg0.mp3"
+            },
+            {
+              "text": "ひとりぼっちの小狐で、",
+              "ruby": "ひとりぼっちのこぎつねで、",
+              "translation": "是一只孤零零的小狐狸，",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_01_seg1.mp3"
+            },
+            {
+              "text": "森の中に",
+              "ruby": "もりのなかに",
+              "translation": "在森林里",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_01_seg2.mp3"
+            },
+            {
+              "text": "住んでいました。",
+              "ruby": "すんでいました。",
+              "translation": "住着。",
+              "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_01_seg3.mp3"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_02.mp3",
+          "japaneseText": "村へ出てきては、いろいろないたずらをしました。",
+          "translation": "他一跑到村子里，就干各种各样的恶作剧。",
+          "rubySegments": [
+            {
+              "text": "村へ",
+              "ruby": "むらへ",
+              "translation": "往村子里"
+            },
+            {
+              "text": "出てきては、",
+              "ruby": "でてきては、",
+              "translation": "一跑出来，"
+            },
+            {
+              "text": "いろいろな",
+              "ruby": "いろいろな",
+              "translation": "各种各样的"
+            },
+            {
+              "text": "いたずらをしました。",
+              "ruby": "いたずらをしました。",
+              "translation": "恶作剧就干。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_03.mp3",
+          "japaneseText": "ある秋のこと、兵十が川で魚をとっていました。",
+          "translation": "有一个秋天，兵十在河里捕鱼。",
+          "rubySegments": [
+            {
+              "text": "ある秋のこと、",
+              "ruby": "あるあきのこと、",
+              "translation": "有一个秋天，"
+            },
+            {
+              "text": "兵十が",
+              "ruby": "ひょうじゅうが",
+              "translation": "兵十"
+            },
+            {
+              "text": "川で魚を",
+              "ruby": "かわでさかなを",
+              "translation": "在河里把鱼"
+            },
+            {
+              "text": "とっていました。",
+              "ruby": "とっていました。",
+              "translation": "捕着。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_04.mp3",
+          "japaneseText": "ごんは、兵十の魚やうなぎを、川の中へ投げこんでしまいました。",
+          "translation": "阿权把兵十的鱼和鳗鱼，全都扔进了河里。",
+          "rubySegments": [
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，"
+            },
+            {
+              "text": "兵十の魚やうなぎを、",
+              "ruby": "ひょうじゅうのさかなやうなぎを、",
+              "translation": "把兵十的鱼和鳗鱼，"
+            },
+            {
+              "text": "川の中へ",
+              "ruby": "かわのなかへ",
+              "translation": "往河里"
+            },
+            {
+              "text": "投げこんでしまいました。",
+              "ruby": "なげこんでしまいました。",
+              "translation": "全都扔了进去。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_05.mp3",
+          "japaneseText": "それから十日ほどたって、兵十のお母さんが死にました。",
+          "translation": "在那之后大约过了十天，兵十的母亲去世了。",
+          "rubySegments": [
+            {
+              "text": "それから",
+              "ruby": "それから",
+              "translation": "在那之后"
+            },
+            {
+              "text": "十日ほどたって、",
+              "ruby": "とおかほどたって、",
+              "translation": "大约过了十天，"
+            },
+            {
+              "text": "兵十のお母さんが",
+              "ruby": "ひょうじゅうのおかあさんが",
+              "translation": "兵十的母亲"
+            },
+            {
+              "text": "死にました。",
+              "ruby": "しにました。",
+              "translation": "去世了。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_06.mp3",
+          "japaneseText": "「ああ、うなぎが食べたいと思いながら、死んだんだろう。あんないたずらをしなけりゃよかった。」",
+          "translation": "“唉，一定是想着好想吃鳗鱼，死去的吧。要是不搞那种恶作剧就好了。”",
+          "rubySegments": [
+            {
+              "text": "「ああ、",
+              "ruby": "「ああ、",
+              "translation": "「唉，"
+            },
+            {
+              "text": "うなぎが食べたいと",
+              "ruby": "うなぎがたべたいと",
+              "translation": "好想吃鳗鱼"
+            },
+            {
+              "text": "思いながら、",
+              "ruby": "おもいながら、",
+              "translation": "一定是这样想着，"
+            },
+            {
+              "text": "死んだんだろう。",
+              "ruby": "しんだんだろう。",
+              "translation": "死去的吧。"
+            },
+            {
+              "text": "あんないたずらを",
+              "ruby": "あんないたずらを",
+              "translation": "那种恶作剧"
+            },
+            {
+              "text": "しなけりゃよかった。」",
+              "ruby": "しなけりゃよかった。」",
+              "translation": "要是不搞就好了。」"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_07.mp3",
+          "japaneseText": "つぎの日、ごんは、栗をひろって、兵十の家へ持っていってやりました。",
+          "translation": "第二天，阿权捡了栗子，给兵十家送了过去。",
+          "rubySegments": [
+            {
+              "text": "つぎの日、",
+              "ruby": "つぎのひ、",
+              "translation": "第二天，"
+            },
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，"
+            },
+            {
+              "text": "栗をひろって、",
+              "ruby": "くりをひろって、",
+              "translation": "捡了栗子，"
+            },
+            {
+              "text": "兵十の家へ",
+              "ruby": "ひょうじゅうのいえへ",
+              "translation": "往兵十家"
+            },
+            {
+              "text": "持っていってやりました。",
+              "ruby": "もっていってやりました。",
+              "translation": "送了过去。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_08.mp3",
+          "japaneseText": "次の日も、その次の日も、ごんは、栗や松茸を持っていきました。",
+          "translation": "第二天也是，再之后一天也是，阿权把栗子和松蘑送了过去。",
+          "rubySegments": [
+            {
+              "text": "次の日も、",
+              "ruby": "つぎのひも、",
+              "translation": "第二天也是，"
+            },
+            {
+              "text": "その次の日も、",
+              "ruby": "そのつぎのひも、",
+              "translation": "再之后一天也是，"
+            },
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，"
+            },
+            {
+              "text": "栗や松茸を",
+              "ruby": "くりやまつたけを",
+              "translation": "把栗子和松蘑"
+            },
+            {
+              "text": "持っていきました。",
+              "ruby": "もっていきました。",
+              "translation": "送了过去。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_09.mp3",
+          "japaneseText": "「おれにはお礼を言わないで、神様にお礼を言うなんて、引き合わないなあ。」",
+          "translation": "“对我一句感谢都不说，却对神明去道谢，真是太亏了啊。”",
+          "rubySegments": [
+            {
+              "text": "「おれには",
+              "ruby": "「おれには",
+              "translation": "「对我"
+            },
+            {
+              "text": "お礼を言わないで、",
+              "ruby": "おれいをいわないで、",
+              "translation": "不说声谢谢，"
+            },
+            {
+              "text": "神様に",
+              "ruby": "かみさまに",
+              "translation": "却对神明"
+            },
+            {
+              "text": "お礼を言うなんて、",
+              "ruby": "おれいをいうなんて、",
+              "translation": "去道谢，"
+            },
+            {
+              "text": "引き合わないなあ。」",
+              "ruby": "ひきあわないなあ。」",
+              "translation": "真是太亏了啊。」"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_10.mp3",
+          "japaneseText": "そのあくる日も、ごんは、栗を持って、兵十の家へ入っていきました。",
+          "translation": "又过了一天，阿权带着栗子，走进了兵十的家。",
+          "rubySegments": [
+            {
+              "text": "そのあくる日も、",
+              "ruby": "そのあくるひも、",
+              "translation": "又过了一天，"
+            },
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，"
+            },
+            {
+              "text": "栗を持って、",
+              "ruby": "くりをもって、",
+              "translation": "带着栗子，"
+            },
+            {
+              "text": "兵十の家へ",
+              "ruby": "ひょうじゅうのいえへ",
+              "translation": "往兵十家"
+            },
+            {
+              "text": "入っていきました。",
+              "ruby": "はいっていきました。",
+              "translation": "走了进去。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_11.mp3",
+          "japaneseText": "兵十は、火縄銃をとって、ドンと、ごんを撃ちました。",
+          "translation": "兵十拿起了火绳枪，砰地一声，击中了阿权。",
+          "rubySegments": [
+            {
+              "text": "兵十は、",
+              "ruby": "ひょうじゅうは、",
+              "translation": "兵十，"
+            },
+            {
+              "text": "火縄銃をとって、",
+              "ruby": "ひなわじゅうをとって、",
+              "translation": "拿起了火绳枪，"
+            },
+            {
+              "text": "ドンと、",
+              "ruby": "ドンと、",
+              "translation": "砰地一声，"
+            },
+            {
+              "text": "ごんを撃ちました。",
+              "ruby": "ごんをうちました。",
+              "translation": "击中了阿权。"
+            }
+          ]
+        },
+        {
+          "videoName": null,
+          "coverImageName": null,
+          "audioFileName": null,
+          "coverImageURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_cover.png",
+          "audioFileURL": "https://raw.githubusercontent.com/cunshangguoshu/shadowing-catalog/main/media/gongitsune_12.mp3",
+          "japaneseText": "「ごん、お前だったのか。いつも、栗をくれたのは。」ごんは、ぐったりと目をつぶったまま、うなずきました。",
+          "translation": "“阿权，原来是你吗。一直给我送栗子的……”阿权无力地闭着眼睛，点了点头。",
+          "rubySegments": [
+            {
+              "text": "「ごん、",
+              "ruby": "「ごん、",
+              "translation": "「阿权，"
+            },
+            {
+              "text": "お前だったのか。",
+              "ruby": "おまえだったのか。",
+              "translation": "原来是你吗。"
+            },
+            {
+              "text": "いつも、",
+              "ruby": "いつも、",
+              "translation": "一直以来，"
+            },
+            {
+              "text": "栗をくれたのは。」",
+              "ruby": "くりをくれたのは。」",
+              "translation": "给我送栗子的……」"
+            },
+            {
+              "text": "ごんは、",
+              "ruby": "ごんは、",
+              "translation": "阿权，"
+            },
+            {
+              "text": "ぐったりと",
+              "ruby": "ぐったりと",
+              "translation": "无力地"
+            },
+            {
+              "text": "目をつぶったまま、",
+              "ruby": "めをつぶったまま、",
+              "translation": "闭着眼睛，"
+            },
+            {
+              "text": "うなずきました。",
+              "ruby": "うなずきました。",
+              "translation": "点了点头。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
